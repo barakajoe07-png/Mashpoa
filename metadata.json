@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Web2App WhatsApp Booker",
+  "description": "A full website replica featuring an interactive carousel, directing all booking requests to a designated WhatsApp number.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
